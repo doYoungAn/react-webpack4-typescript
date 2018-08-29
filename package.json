@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/doYoungAn/react-webpack4-typescript/issues"
   },
-  "homepage": "https://github.com/doYoungAn/react-webpack4-typescript#readme"
+  "homepage": "https://github.com/doYoungAn/react-webpack4-typescript#readme",
+  "dependencies": {
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2"
+  }
 }
